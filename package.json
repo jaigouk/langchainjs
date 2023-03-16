@@ -4,12 +4,6 @@
   "engines": {
     "node": ">=18"
   },
-  "workspaces": [
-    "langchain",
-    "examples",
-    "docs",
-    "test-exports"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/hwchase17/langchainjs.git"
